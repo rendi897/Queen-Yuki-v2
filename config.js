@@ -1,6 +1,6 @@
 const fs = require("fs")
 
-global.owner = ["6283850246271", "6200000000000", "621111111111"];
+global.owner = ["6283850246271", "48699552763", "621111111111"];
 
 //watermark 
 global.packname = 'Author'
